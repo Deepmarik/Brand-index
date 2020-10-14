@@ -2,3 +2,28 @@ body {
     margin: 0;
     padding: 0;
 }
+@font-face{
+    font-family: lato;
+    src: local(lato-regular),url(/fonts/Lato/lato-regular.ttf);
+    font-style: normal;
+}
+@font-face{
+    font-family: lato;
+    src: local(lato-italic),url(/fonts/Lato/lato-italic.ttf);
+    font-style: italic;
+}
+@font-face{
+    font-family: lato;
+    src: local(lato-bold),url(/fonts/Lato/lato-bold.ttf);
+    font-style: normal;
+}
+@font-face{
+    font-family: lato;
+    src: local(lato-lightItalic),url(/fonts/Lato/lato-lightItalic.ttf);
+    font-style: italic;
+}
+@font-face{
+    font-family: lato;
+    src: local(lato-light),url(/fonts/Lato/lato-light.ttf);
+    font-style: normal;
+}
